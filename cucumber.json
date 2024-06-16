@@ -2,7 +2,7 @@
     "default": {
 
         "formatOptions": {
-            "snippetInterface" :"async-wait"
+            "snippetInterface" :"async-await"
         },
         "paths": ["src/test/features/login.feature"],
         "dryRun" : true,
